@@ -1,0 +1,6 @@
+bin/*
+obj/*
+
+### VisualStudioCode ###
+.vscode/*
+.vs/
